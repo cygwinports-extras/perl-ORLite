@@ -3,10 +3,12 @@ inherit perl
 
 NAME="perl-ORLite"
 VERSION=1.98
-RELEASE=1
+RELEASE=2
 CATEGORY="Perl"
 SUMMARY="Lightweight SQLite-specific ORM for Perl"
 DESCRIPTION="ORLite is an object-relation system specifically tailored for
 SQLite that follows many of the same principles as the ::Tiny series of modules
 and has a design and feature set that aligns directly to the capabilities of
 SQLite."
+
+ARCH=noarch
